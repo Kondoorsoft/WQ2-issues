@@ -29,14 +29,12 @@ assignees: ''
 
 <!-- If applicable, and if you are able, take a video (either screen recording or record with phone) of the bug occurring and upload it to YouTube, Google Drive, etc., and share the link here -->
 
-### Other Information
-
-#### Game Settings
+### Game Settings
 
 - [ ] Single-player
 - [ ] Split-screen
 
-#### Graphics Settings
+### Graphics Settings
 
 - [ ] Full-screen
 - [ ] Windowed
@@ -44,25 +42,23 @@ assignees: ''
 - [ ] FSR 2 enabled
 - [ ] V-Sync enabled
 
-#### Device Software & Hardware
-
-##### OS & OS Version
+### OS & OS Version
 
 <!-- [e.g. Windows 11] -->
 
-##### Device Played On
+### Device Played On
 
 <!-- [e.g. Custom PC, Steam Deck, MacBook, etc.] -->
 
-##### PC Hardware
+### PC Hardware
 
 <!-- Only necessary if playing on a custom PC, prebuilt PC, or laptop. Otherwise, leave this section blank or delete it. -->
 <!-- Please list as many parts as you can. -->
 
-##### Peripherals
+### Peripherals
 
 <!-- [e.g. keyboard + mouse, controller, 2x controllers, etc.] <!-- If controllers used, please list specific brand & model -->
 
-#### Additional Information
+### Additional Information
 
 <!-- Any other details that you believe are important for us to know. -->
