@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- As you are filling out this template, please feel free to delete the descriptions (surrounded by the arrows) if they bother you. -->
+
 ### Is your feature request related to a problem? Please describe.
 <!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
 
