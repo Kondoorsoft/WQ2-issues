@@ -1,6 +1,6 @@
 # Wizzerd Quest 2 Reporting
 
-This repository exists as a place to report bugs, suggest features, and track the progress as well as participate in discussion about both.
+This repository exists as a place to create and track bug reports and feature requests. It also creates a space for the developers to communicate with you on these items.
 
 ## How to Report
 
