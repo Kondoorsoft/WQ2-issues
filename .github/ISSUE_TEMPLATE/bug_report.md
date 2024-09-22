@@ -7,36 +7,50 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-<!-- A clear and concise description of what the bug is. -->
+### Describe the bug
+<!-- A clear and concise description of what happened. -->
 
-**To Reproduce**
+### Steps To Reproduce
 <!-- Please provide as much detail as you are able to describe what you did leading up to when the unexpected behavior occurred. -->
 
-**Expected behavior**
+### Expected behavior
 <!-- A clear and concise description of what you expected to happen. -->
 
-**Screenshots**
+### Screenshots
 <!-- If applicable, add screenshots to help explain your problem. -->
 
-**Videos**
-<!-- If applicable, and if you are able, take a video (either screen recording or record with phone) and upload it to YouTube, Google Drive, etc., and share the link -->
+### Videos
+<!-- If applicable, and if you are able, take a video (either screen recording or record with phone) of the bug occurring and upload it to YouTube, Google Drive, etc., and share the link here -->
 
-**Game Settings**
-- [ ] Singleplayer
-- [ ] Co-op
+### Other Information
 
-**Graphics Settings**
-- [ ] Full screen
+#### Game Settings
+
+- [ ] Single-player
+- [ ] Split-screen
+
+#### Graphics Settings
+
+- [ ] Full-screen
 - [ ] Windowed
 - [ ] FSR 1 enabled
 - [ ] FSR 2 enabled
+- [ ] V-Sync enabled
 
-**Device Software & Hardware (please complete the following information):**
- - OS + Version: [e.g. Windows 11]
- - Device: [e.g. Custom PC, Steam Deck, MacBook, etc.)
- - Peripherals: [e.g. keyboard + mouse, controller, 2x controllers, etc.] _(if controllers used, please list specific brand & model)_
- - PC Hardware: _(please list as many parts as you can)_
+#### Device Software & Hardware
 
-**Additional context**
-<!-- Add any other context about the problem here. -->
+##### OS & OS Version
+<!-- [e.g. Windows 11] -->
+
+##### Device Played On
+<!-- [e.g. Custom PC, Steam Deck, MacBook, etc.] -->
+
+##### PC Hardware
+<!-- Only necessary if playing on a custom PC, prebuilt PC, or laptop. Otherwise, leave this section blank or delete it. -->
+<!-- Please list as many parts as you can. -->
+
+##### Peripherals
+<!-- [e.g. keyboard + mouse, controller, 2x controllers, etc.] <!-- If controllers used, please list specific brand & model -->
+
+#### Additional Information
+<!-- Any other details that you believe are important for us to know. -->
