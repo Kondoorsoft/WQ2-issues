@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- As you are filling out this template, please feel free to delete the descriptions (surrounded by the arrows) if they bother you. -->
+
 ### Describe the bug
 <!-- A clear and concise description of what happened. -->
 
