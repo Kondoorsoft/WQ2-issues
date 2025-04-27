@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: 'status: proposed, type: feature'
+labels: 'status: proposed, type: feature, target: full game'
 assignees: ''
 
 ---
