@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: 'status: proposed, type: bug'
+labels: 'status: proposed, type: bug, target: full game'
 assignees: ''
 
 ---
